@@ -1,0 +1,69 @@
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe.config
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.pdb
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csprojAssemblyReference.cache
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Properties.Resources.resources
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csproj.GenerateResource.cache
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.exe
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.pdb
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.MainWindow.resources
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.LoginForm.resources
+C:\Users\CXXX\Desktop\C# repos\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.SignUpForm.resources
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe.config
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.pdb
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.LoginForm.resources
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.MainWindow.resources
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Properties.Resources.resources
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.SignUpForm.resources
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csproj.GenerateResource.cache
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.exe
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.pdb
+C:\Users\gokha\OneDrive\Masaüstü\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.UserManagement.resources
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe.config
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.pdb
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.LoginForm.resources
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.MainWindow.resources
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Properties.Resources.resources
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.SignUpForm.resources
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.UserManagement.resources
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csproj.GenerateResource.cache
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.exe
+C:\Users\gokha\OneDrive\Masaüstü\2.sınıf 2.dönem\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.pdb
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe.config
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.pdb
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csprojAssemblyReference.cache
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.LoginForm.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.MainWindow.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Notes.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.PersonalInformation.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Phonebook.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Properties.Resources.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Reminder.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Salary.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.SignUpForm.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.UserManagement.resources
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csproj.GenerateResource.cache
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.exe
+C:\Users\CXXX\Documents\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.pdb
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe.config
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.exe
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\bin\Debug\PersonalApplication.pdb
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csprojAssemblyReference.cache
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.LoginForm.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.MainWindow.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Notes.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.PersonalInformation.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Phonebook.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Properties.Resources.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Reminder.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.Salary.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.SignUpForm.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.UserManagement.resources
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.csproj.GenerateResource.cache
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.exe
+C:\Users\CXXX\Desktop\Projeler\19_20_spring_oop2_14\PersonalApplication\PersonalApplication\obj\Debug\PersonalApplication.pdb
